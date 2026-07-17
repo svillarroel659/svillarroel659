@@ -7,7 +7,7 @@ I am currently seeking opportunities as a **Data Analyst** or **Data Scientist**
 
 ## Featured Projects
 
-### [HIV Symptom and Treatment Analysis](YOUR-LINK)
+### [HIV Symptom and Treatment Analysis](https://github.com/svillarroel659/hiv-symptom-association-analysis)
 
 Analyzed the relationships among fatigue, weakness, and treatment outcomes using regression and log-linear models in R.
 
