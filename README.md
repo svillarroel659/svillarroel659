@@ -26,6 +26,5 @@ Compared statistical, machine learning, and deep learning models to predict home
 
 ## Connect With Me
 
-- [LinkedIn](www.linkedin.com/in/sebastian-villarroel-0b7359355)
-- [Resume](YOUR-RESUME-LINK)
+- LinkedIn: www.linkedin.com/in/sebastian-villarroel-0b7359355
 - Email: svillarroel659@gmail.com
