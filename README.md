@@ -11,7 +11,7 @@ I am currently seeking opportunities as a **Data Analyst** or **Data Scientist**
 
 Analyzed the relationships among fatigue, weakness, and treatment outcomes using regression and log-linear models in R.
 
-### [Housing Price Prediction](YOUR-LINK)
+### [Housing Price Prediction](https://github.com/svillarroel659/housing-price-prediction)
 
 Compared statistical, machine learning, and deep learning models to predict home sale prices using the Ames Housing dataset in Python. 
 
