@@ -7,21 +7,25 @@ I am currently seeking opportunities as a **Data Analyst** or **Data Scientist**
 
 ## Featured Projects
 
-### [HIV Symptom and Treatment Analysis](https://github.com/svillarroel659/hiv-symptom-association-analysis)
+### [Brazilian E-Commerce Data Analysis](https://github.com/svillarroel659/olist-ecommerce-analysis)
 
-Analyzed the relationships among fatigue, weakness, and treatment outcomes using regression and log-linear models in R.
+Analyzed the Olist Brazilian e-commerce dataset using PostgreSQL, covering sales performance, customer behavior, RFM segmentation, cohort retention, and delivery performance.
 
 ### [Housing Price Prediction](https://github.com/svillarroel659/housing-price-prediction)
 
 Compared statistical, machine learning, and deep learning models to predict home sale prices using the Ames Housing dataset in Python. 
 
+### [HIV Symptom and Treatment Analysis](https://github.com/svillarroel659/hiv-symptom-association-analysis)
+
+Analyzed the relationships among fatigue, weakness, and treatment outcomes using regression and log-linear models in R.
 
 ## Skills
 
-- **Programming:** R and Python
-- **Data Analysis:** Data cleaning, exploratory data analysis, statistical modeling, and result interpretation
+- **Programming:** Python, SQL, R
+- **Data Analysis:** Data cleaning, exploratory data analysis, statistical modeling, customer segmentation, and cohort analysis
 - **Machine Learning:** Regression, regularization, tree-based models, boosting, cross-validation, and neural networks
-- **Professional Skills:** Communication, teamwork, collaborative leadership, problem-solving, and time management
+- **Tools:** PostgreSQL, DBeaver, pandas, scikit-learn, Jupyter Notebook, R Markdown, and GitHub
+- **Professional Skills:** Communication, teamwork, problem-solving, and collaborative leadership
 - **Languages:** Fluent in English and Spanish
 
 ## Connect With Me
